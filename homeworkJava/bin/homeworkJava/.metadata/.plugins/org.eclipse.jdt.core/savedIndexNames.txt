@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\ARSLAN\source\repos\Github\MyRepository\Java-React Kampý\homeworkJava\src\homeworkJava\.metadata\.plugins\org.eclipse.jdt.core
+1389372532.index
+24986001.index
